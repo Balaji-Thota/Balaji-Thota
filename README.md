@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Balu</h1>
-<h3 align="center">Frontend Developer | Python Enthusiast | History Buff</h3>
+<h1 align="center">Hi 👋, I'm Balaji Thota</h1>
+<h3 align="center">Full-Stack Developer | Python Enthusiast | History Buff</h3>
 
 <p align="center">
   🌟 Exploring the world of Full Stack Development | React | Django | MongoDB <br>
@@ -65,8 +65,8 @@ Here are some ideas to get you started:
 ### 🌍 Let's Connect
 
 <p align="left">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:balaji.us73@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/balajithota/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
